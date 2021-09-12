@@ -5,7 +5,7 @@ Projeto base para iniciar qualquer projeto Python.
 ## Instalar dependências
 
 ```bash
-pipenv sync
+pipenv install --dev -e .
 ```
 
 ## Instalar os scripts configurados do pre-commit

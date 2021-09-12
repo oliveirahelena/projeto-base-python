@@ -5,7 +5,7 @@ Projeto base para iniciar qualquer projeto Python.
 ## Instalar dependências
 
 ```bash
-pipenv install --dev -e .
+pipenv install pytest-cov --dev
 ```
 
 ## Instalar os scripts configurados do pre-commit

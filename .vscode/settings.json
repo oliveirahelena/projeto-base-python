@@ -6,7 +6,7 @@
   "python.linting.flake8Enabled": true,
   "python.linting.flake8Args": [
     "--max-line-length=120",
-    "exclude=migrations,venv"
+    "exclude=.git,migrations,.venv"
   ],
   "editor.formatOnSave": true,
   "python.formatting.provider": "black",
